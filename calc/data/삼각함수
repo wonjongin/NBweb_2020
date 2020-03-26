@@ -1,0 +1,18 @@
+<!-- <h2>삼각함수</h2> -->
+        <form method="post" action="result.php" >
+          <select name="fun">
+            <option value="삼각함수를 선택하세요">삼각함수를 선택하세요</option>
+            <option value="sin">sin</option>
+            <option value="cos">cos</option>
+            <option value="tan">tan</option>
+
+          </select>
+          <input type="text" method="post" placeholder="값을 입력하세요" name="val" required/>
+          <select name="unit">
+            <option value="°">°</option>
+            <option value="radian">radian</option>
+          </select>
+          <input type="submit" value="계산하기"/>
+        </form>
+
+

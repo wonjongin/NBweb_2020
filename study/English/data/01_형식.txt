@@ -1,0 +1,73 @@
+
+<p>
+	
+	<table border="1">
+		<caption>형식 기본</caption>
+		<th>형식</th>
+		<th>형태</th>
+		<tr>
+			<td>1형식</td>	
+			<td> S+V </td>
+		</tr>
+
+		<tr>
+			<td>2형식</td>	
+			<td> S+V+C </td>
+		</tr>
+		<tr>
+			<td>3형식</td>	
+			<td> S+V+O </td>
+		</tr>
+		<tr>
+			<td>4형식</td>	
+			<td> S+V+IO+DO</td>
+		</tr>
+		<tr>
+			<td>5형식</td>	
+			<td> S+V+O+OC </td>
+		</tr>
+
+	</table>	
+	<h2>1형식</h2>
+	
+	<table border="1">
+		<caption>완전자동사 목록</caption>
+		<th>단어</th>
+		<th>뜻</th>
+		<tr>
+			<td>do</td>	
+			<td>충분하다</td>
+		</tr>
+		
+		<tr>
+			<td>work</td>	
+			<td>효과가 있다</td>
+		</tr>
+		<tr>
+			<td>pay</td>	
+			<td>수지에 맞다</td>
+		</tr>
+		<tr>
+			<td>count</td>	
+			<td rowspan="2" align = "center">중요하다</td>
+		</tr>
+		<tr>
+			<td>matter</td>	
+		</tr>
+		<tr>
+			<td>occur</td>	
+			<td rowspan="4" align="center">발생하다</td>
+		</tr>
+		<tr>
+			<td>happen</td>	
+		</tr>
+		<tr>
+			<td>break out</td>	
+		</tr>
+		<tr>
+			<td>take place</td>	
+		</tr>
+
+
+
+	</table>

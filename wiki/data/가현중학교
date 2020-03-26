@@ -1,0 +1,11 @@
+<table class="table300">
+    <caption>가현중학교</caption>
+    <tr>
+        <!--<th class="th">교표</th> -->
+        <th><img src="./img/gahyeonmslogo.png" alt="logo of 가현중학교"></th>
+    </tr>
+    <tr>
+        <th class="th">설립월</th>
+        <td>2018년 3월</td>
+    </tr>
+</table>

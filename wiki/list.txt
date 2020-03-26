@@ -1,0 +1,12 @@
+<!--<ul>
+<li><a href="./contents/nanobyte.html">nanobyte</a></li>
+<li><a href="./contents/가현중학교.html">가현중학교</a></li>
+<li><a href="./contents/pppp.html">nanobyte</a></li>
+</ul>-->
+
+
+<ul>
+<li><a href="index.php?id=nanobyte">nanobyte</a></li>
+<li><a href="index.php?id=가현중학교">가현중학교</a></li>
+<li><a href="index.php?id=가현중학교">가현중학교</a></li>
+</ul>
